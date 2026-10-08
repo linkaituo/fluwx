@@ -6,7 +6,6 @@ homepage: https://github.com/OpenFlutter/fluwx
 environment:
   sdk: ^3.11.0
   flutter: ">=3.41.0"
-resolution: workspace
 
 dependencies:
   flutter:
